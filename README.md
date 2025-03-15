@@ -1,13 +1,13 @@
 
 # DeepSeek on Raspberry Pi 5
 
-This guide will walk you through the steps to install **Ollama** and **DeepSeek** on a Raspberry Pi 5. (without GPU or AI HAT)
+This guide will walk you through the steps for installing **DeepSeek** on a Raspberry Pi 5 and running locall AI application using Python. (without GPU or AI HAT)
 
 ## Prerequisites
 
-- Raspberry Pi 5 (I used 16GB RAM + SD card. You can use SSD with M HAT)
+- Raspberry Pi 5 (I used 16GB RAM board with 32 GB SD card. You can use SSD with M HAT)
 - A 64-bit version of Raspberry Pi OS (Bookworm)
-- Internet connection (for downloading the model unless you have it offline and use ESP32 access point. Covered later)
+- Internet connection (for downloading the model unless you have it offline and use ESP32 access point. ESP 32 based access points to be covered later)
 
 
 ## Step 1: Update Your System
