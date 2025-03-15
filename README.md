@@ -70,9 +70,9 @@ ollama run deepseek-r1:1.5b
 You can now interact with the DeepSeek model locally on your Raspberry Pi.
 
 ## Step 6: VS Code Setup
-ssh into VS Code with you Raspberry pi sude user name and password
-
-<sample code attached>
+- ssh into VS Code with you Raspberry pi sude user name and password
+- activate virtual environment
+- wriet your code (sample attached)
 
 ## Additional Resources
 
