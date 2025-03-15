@@ -58,6 +58,7 @@ DeepSeek can be run using the Ollama platform. Follow these steps:
      ```bash
      ollama list
      ```
+<img width="565" alt="Screenshot 2025-03-15 at 4 39 20 PM" src="https://github.com/user-attachments/assets/ae3290a4-8631-4afd-a4e2-8ef3cb480db2" />
 
 ## Step 5: Test Your Setup
 
@@ -66,6 +67,7 @@ Run a simple test to ensure everything is working:
 ```bash
 ollama run deepseek-r1:1.5b
 ```
+<img width="549" alt="Screenshot 2025-03-15 at 4 41 33 PM" src="https://github.com/user-attachments/assets/305e8a4b-d37f-420f-8ca8-031f5e6cd8cb" />
 
 You can now interact with the DeepSeek model locally on your Raspberry Pi.
 
