@@ -1,7 +1,7 @@
 
 # DeepSeek on Raspberry Pi 5
 
-This guide will walk you through the steps for installing **DeepSeek** on a Raspberry Pi 5 and running locall AI application using Python. (without GPU or AI HAT)
+This guide will walk you through the steps for installing **DeepSeek** on a Raspberry Pi 5 and running local (stand alone, not connected to Internet) AI application using Python. (without GPU or AI HAT)
 
 ## Prerequisites
 
