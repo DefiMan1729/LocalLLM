@@ -78,5 +78,6 @@ You can now interact with the DeepSeek model locally on your Raspberry Pi.
 
 <img width="965" alt="Screenshot 2025-03-15 at 4 46 01 PM" src="https://github.com/user-attachments/assets/696f5bcc-7e06-479e-9aa8-117d4bcb7361" />
 
+![WhatsApp Image 2025-03-15 at 17 09 57](https://github.com/user-attachments/assets/d2656fab-a3f6-4c28-a3a8-58d209a4b651)
 
 
