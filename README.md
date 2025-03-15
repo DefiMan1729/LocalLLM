@@ -5,7 +5,7 @@ This guide will walk you through the steps to install **Ollama** and **DeepSeek*
 
 ## Prerequisites
 
-- Raspberry Pi 5 (I used 16GB RAM)
+- Raspberry Pi 5 (I used 16GB RAM + SD card. You can use SSD with M HAT)
 - A 64-bit version of Raspberry Pi OS (Bookworm)
 - Internet connection (for downloading the model unless you have it offline and use ESP32 access point. Covered later)
 
