@@ -84,6 +84,3 @@ You can now interact with the DeepSeek model locally on your Raspberry Pi.
 - [Ollama Documentation](https://ollama.com/docs)
 - [DeepSeek GitHub Repository](https://github.com/deepseek)
 
----
-
-Feel free to customize this `README.md` to suit your specific setup or requirements! Let me know if you need further assistance.
