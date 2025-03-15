@@ -1,5 +1,5 @@
 
-# Installing Ollama and DeepSeek on Raspberry Pi 5
+# DeepSeek on Raspberry Pi 5
 
 This guide will walk you through the steps to install **Ollama** and **DeepSeek** on a Raspberry Pi 5. (without GPU or AI HAT)
 
