@@ -79,8 +79,4 @@ You can now interact with the DeepSeek model locally on your Raspberry Pi.
 <img width="965" alt="Screenshot 2025-03-15 at 4 46 01 PM" src="https://github.com/user-attachments/assets/696f5bcc-7e06-479e-9aa8-117d4bcb7361" />
 
 
-## Additional Resources
-
-- [Ollama Documentation](https://ollama.com/docs)
-- [DeepSeek GitHub Repository](https://github.com/deepseek)
 
