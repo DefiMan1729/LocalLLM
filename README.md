@@ -80,4 +80,4 @@ You can now interact with the DeepSeek model locally on your Raspberry Pi.
 
 ![WhatsApp Image 2025-03-15 at 17 09 57](https://github.com/user-attachments/assets/d2656fab-a3f6-4c28-a3a8-58d209a4b651)
 
-
+refer: https://github.com/DefiMan1729/RaspberryPi5_Local_Deepseek_NGROK
