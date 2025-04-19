@@ -7,7 +7,7 @@ This guide will walk you through the steps for installing **DeepSeek** on a Rasp
 
 - Raspberry Pi 5 (I used 16GB RAM board with 32 GB SD card. You can use SSD with M HAT)
 - A 64-bit version of Raspberry Pi OS (Bookworm)
-- Internet connection (for downloading the model unless you have it offline and use ESP32 access point. ESP 32 based access points to be covered later)
+- Internet connection (for downloading the models and dependencies)
 
 
 ## Step 1: Update Your System
